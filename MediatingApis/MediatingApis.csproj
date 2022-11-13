@@ -7,7 +7,6 @@
         <PackageId>Khitiara.MediatingApis</PackageId>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <Authors>Khitiara</Authors>
-        <PackageReadmeFile>../README.md</PackageReadmeFile>
         <AssemblyName>Khitiara.MediatingApis</AssemblyName>
     </PropertyGroup>
 
